@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=lucabarattini&color=36b812)<br>
-![](https://img.shields.io/github/followers/lucabarattini?style=social)<br>
-![](https://img.shields.io/github/stars/lucabarattini?style=social)<br>
-
 ### Hi, my name is Luca 🦥
 
 <ins>TLDR</ins> or Common Data Point that most people care of:</ins><br>
