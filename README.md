@@ -5,9 +5,8 @@
 ### Hi, my name is Luca 🦥
 
 <ins>TLDR</ins> or Common Data Point that most people care of:</ins><br>
-Columbia MS in Data Science Student  - Fulbright Scholar - ex-Amazon 
 
----
+### Columbia MS in Data Science Student  - Fulbright Scholar - ex-Amazon
 
 - 🎓 **Education:** MS in Data Science @ Columbia University
     - 🤖 *Focus:* ML + Optimization
