@@ -18,7 +18,7 @@
 | :--- | :--- | :--- | :--- |
 | [**MCMC Cipher Decryption**](https://github.com/lucabarattini/Application-of-MCMC-Algorith-to-Decrypt-Simple-Substitution-Ciphers) | Breaking simple substitution ciphers using the Metropolis-Hastings MCMC Chain. | Security / Math | `Python` `Raw Math` |
 | [**Multi-Layer AI Hedge Fund**](https://github.com/fede-giorgi/ai-agent) | End-to-end AI Hedge fund. Multi-agent collaboration system deciding to buy, sell, or hold based on signals. | Agentic AI / Finance | `Langchain` `OLLAMA` |
-| [**Deeply**](https://github.com/danielfalbo/deeply) | Resolving the "blank page syndrome" and deepening the journaling experience using RAG. | RAG / Web Dev | `Python` `Supabase` `Vibe-coding` |
+| [**Deeply**](https://github.com/danielfalbo/deeply) | Resolving the "blank page syndrome" and deepening the journaling experience using RAG. | RAG / Web Dev | `Python` `Supabase` |
 | [**Titanic Classifiers**](https://github.com/lucabarattini/Titanic-Dataset-AppliedML-Project) | Using this classic dataset to engineer smart features and play around with regression boundaries. | ML | `Python` `SkLearn` |
 | [**Bank Marketing Boosting**](https://github.com/lucabarattini/Trees-Boosting-AppliedML-Project) | Comparative analysis of XGBoost, RandomForest, and Classical Decision Trees. | ML | `Python` `XGBoost` `SkLearn` |
 
